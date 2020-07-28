@@ -4,6 +4,9 @@ I am an award-winning Web Developer & Designer living in Cleveland, Ohio. I have
 
 Not only can I execute projects as a developer, but I am also an accomplished graphic and web designer. With my unique skill set, I seamlessly bridge the gap between design and development, creating high-quality projects from start to finish. 
 
+- Lead Web Developer @ [Company 119](https://www.company119.com)
+- Currently building [Socially Distant Eats](https://www.sociallydistanteats.com)
+
 <!--
 **nickysixer/nickysixer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
