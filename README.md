@@ -2,7 +2,6 @@
 
 - Current Position: Lead Web Developer @ [Company 119](https://www.company119.com)
 - Currently Building: [Socially Distant Eats](https://www.sociallydistanteats.com)
-- Pronouns: He/Him/His
 
 ### About Me
 
